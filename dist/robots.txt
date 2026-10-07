@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zani-atacado-hortifruti.keen-brook-7148.chatgpt.site/sitemap.xml

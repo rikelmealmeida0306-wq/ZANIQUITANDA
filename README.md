@@ -60,4 +60,3 @@ Enviar o código ao GitHub não altera automaticamente o site já publicado.
 As imagens individuais de produtos e o banner são ilustrativos. A logo e quatro fotos da quitanda foram fornecidas pelo proprietário. Não há marcas, preços ou estoque presumidos no catálogo.
 
 Este pacote não contém credenciais, histórico Git ou configurações de acesso da hospedagem original.
-
